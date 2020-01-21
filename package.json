@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-source-conference-hall-example",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-conference-hall": "0.0.3"
+  }
+}
